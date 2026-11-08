@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Asset/obey-your-master-cingray.gif" width="1000">
-</p>
+
 
 <h3 align="center">Hello There, I'm Marcell Santoso</h3>
 <hr>
